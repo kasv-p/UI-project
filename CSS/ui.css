@@ -2,7 +2,7 @@ body {
     font-family: Arial, Georgia, 'Times New Roman', Times, serif; /* Define the default font */
     font-size: 16px; /* Define the default font size */
     color: #333; /* Define the default text color */
-    background-color: #f0f0f0; /* Define the background color */
+    background-color: #f0f0f231; /* Define the background color */
     margin: 0; /* Remove default margin */
     padding: 0; /* Remove default padding */
 }
